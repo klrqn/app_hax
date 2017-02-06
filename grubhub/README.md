@@ -1,3 +1,3 @@
 # app_hax-grubhub
 
-Where we try to Automate web tasks using Selenium
+A project where we try to Automate web tasks using Selenium.
