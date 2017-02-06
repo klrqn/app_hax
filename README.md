@@ -1,3 +1,3 @@
-# app_hax
+# app_hax-grubhub
 
-try to Automate web tasks using Selenium. Let me know when you get stuff into grubhub ot.
+A project where we try to Automate web tasks using Selenium.
